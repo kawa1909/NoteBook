@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/baocun1.png</file>
+        <file>icon/baocun2.png</file>
+        <file>icon/dakai1.png</file>
+        <file>icon/dakai2.png</file>
+        <file>icon/guanbi1.png</file>
+        <file>icon/guanbi2.png</file>
+        <file>icon/jishiben.png</file>
+        <file>icon/baocun3.png</file>
+        <file>icon/dakai3.png</file>
+        <file>icon/guanbi3.png</file>
+    </qresource>
+</RCC>
